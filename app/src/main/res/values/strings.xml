@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">yuuu</string>
+    <string name="zhuye">主页</string>
+    <string name="list">列表</string>
+    <string name="shipin">视频</string>
+    <string name="my">我的</string>
+    <string name="about">关于</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_main3">Main3Activity</string>
+</resources>
